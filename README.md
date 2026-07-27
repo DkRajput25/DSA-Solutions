@@ -1,8 +1,9 @@
 # LeetCode Solutions
 
-**Total Solved Problems:** 2
+**Total Solved Problems:** 3
 
 | Problem Number | Problem Name | Difficulty | Last Updated |
 |---|---|---|---|
-| 0001 | Two Sum | Easy | 24 Jul 2026 |
-| 0020 | Valid Parentheses | Easy | 24 Jul 2026 |
+| 0001 | Two Sum | Easy | 27 Jul 2026 |
+| 0020 | Valid Parentheses | Easy | 27 Jul 2026 |
+| 0167 | Two Sum II - Input Array Is Sorted | Medium | 27 Jul 2026 |
