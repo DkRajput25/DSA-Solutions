@@ -5,5 +5,5 @@ class Solution {
         // return (nums[n]-1)*(nums[n-1]-1);
         int m =0;
     }
-        int n=
-}
+        int n=0;
+        for
