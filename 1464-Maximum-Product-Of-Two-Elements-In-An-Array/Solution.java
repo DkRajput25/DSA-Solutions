@@ -6,4 +6,4 @@ class Solution {
         int m =0;
     }
         int n=0;
-        for(int nu)
+        for(int num:num)
