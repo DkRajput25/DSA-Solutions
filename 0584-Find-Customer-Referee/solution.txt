@@ -1,2 +1,2 @@
 # Write your MySQL query statement below
-select name form Customer wher
+select name form Customer where 
