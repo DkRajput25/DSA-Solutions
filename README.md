@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Total Solved Problems:** 13
+**Total Solved Problems:** 14
 
 | Problem Number | Problem Name | Difficulty | Last Updated |
 |---|---|---|---|
@@ -11,6 +11,7 @@
 | 0584 | Find Customer Referee | Easy | 03 Sept 2026 |
 | 0595 | Big Countries | Easy | 03 Sept 2026 |
 | 0724 | Find Pivot Index | Easy | 03 Sept 2026 |
+| 1013 | Partition Array Into Three Parts With Equal Sum | Easy | 03 Sept 2026 |
 | 1148 | Article Views I | Easy | 03 Sept 2026 |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | 03 Sept 2026 |
 | 1929 | Concatenation of Array | Easy | 03 Sept 2026 |
