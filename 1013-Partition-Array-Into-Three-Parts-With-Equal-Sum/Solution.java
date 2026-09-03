@@ -1,34 +1,31 @@
 1class Solution {
 2    public boolean canThreePartsEqualSum(int[] arr) {
 3        int totalsum = 0;
-4        int first = 0;
-5        int second = 0;
-6        int target=0;
-7        for(int n: arr){
-8            totalsum+=n;
-9        }
-10        if(totalsum%3==0){
-11            target = totalsum/3;
-12        }
-13        else{
-14            return false;
-15        }
-16
-17        for(int i=0;i<arr.length;i++){
-18            if(first!=target){
-19                first +=arr[i]; 
-20            }
-21            else if(first == target){
-22                if(second!=target){
-23
-24                second+=arr[i];
-25                }
-26            }
-27        }
-28        if(first==second){
-29            return true;
-30        }
-31
-32        return false;
-33    }
-34}
+4        int sum =0;
+5        int count = 0;
+6        for(int n: arr){
+7            totalsum+=n;
+8        }
+9        if(totalsum%3!=0){
+10            return false;
+11        }
+12        
+13        int target = totalsum/3;
+14
+15        for(int i=0;i<arr.length;i++){
+16            sum += arr[i];
+17
+18            if(sum==target){
+19                count++;
+20                sum=0;
+21
+22                if(count==2){
+23                    return true;
+24                }
+25            }
+26        }
+27        
+28
+29        return false;
+30    }
+31}
