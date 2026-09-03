@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Total Solved Problems:** 12
+**Total Solved Problems:** 13
 
 | Problem Number | Problem Name | Difficulty | Last Updated |
 |---|---|---|---|
@@ -14,5 +14,6 @@
 | 1148 | Article Views I | Easy | 03 Sept 2026 |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | 03 Sept 2026 |
 | 1929 | Concatenation of Array | Easy | 03 Sept 2026 |
+| 1991 | Find the Middle Index in Array | Easy | 03 Sept 2026 |
 | 3345 | Smallest Divisible Digit Product I | Easy | 03 Sept 2026 |
 | 3731 | Find Missing Elements | Easy | 03 Sept 2026 |
