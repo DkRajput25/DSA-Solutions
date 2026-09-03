@@ -19,7 +19,7 @@
 19                count++;
 20                sum=0;
 21
-22                if(count==2){
+22                if(count==3){
 23                    return true;
 24                }
 25            }
