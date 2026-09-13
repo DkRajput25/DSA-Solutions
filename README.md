@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Total Solved Problems:** 15
+**Total Solved Problems:** 16
 
 | Problem Number | Problem Name | Difficulty | Last Updated |
 |---|---|---|---|
@@ -17,5 +17,6 @@
 | 1492 | The kth Factor of n | Medium | 13 Sept 2026 |
 | 1929 | Concatenation of Array | Easy | 13 Sept 2026 |
 | 1991 | Find the Middle Index in Array | Easy | 13 Sept 2026 |
+| 2405 | Optimal Partition of String | Medium | 13 Sept 2026 |
 | 3345 | Smallest Divisible Digit Product I | Easy | 13 Sept 2026 |
 | 3731 | Find Missing Elements | Easy | 13 Sept 2026 |
